@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/daea72f8-2e3e-4d52-b15a-d27fe4e922ef" />
+
 # Heart Disease Prediction 🫀
 
 A machine learning project that predicts the presence of heart disease in patients based on medical attributes. This project employs multiple ML algorithms to assist in early diagnosis and clinical decision-making.
